@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @ashharabdullah
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning react/ next js
-- 💞️ I’m looking to collaborate on open source projects
 
 
 <!---
